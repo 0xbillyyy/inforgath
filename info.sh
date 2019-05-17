@@ -2,9 +2,12 @@
 #mau apa kakk:)
 #mau recode silahkan
 #jangan lupa sertakan copyright:)
+
+#variable
 a="        ================================================="
 b="================================================="
 
+clear
 echo "$a"|lolcat
 echo "                       Information Gathering"
 echo "$a"|lolcat
